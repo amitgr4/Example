@@ -13,7 +13,7 @@ public class hello {
 	    String strDate= formatter.format(date);  
 	    System.out.println(strDate);  
 	    System.out.println("this is java project learn git");
-	    System.out.println("This is jenkins");
+	    System.out.println("This is jenkins project");
 
 	}
 
